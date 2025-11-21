@@ -4,8 +4,6 @@
 
 *An autonomous AI agent that acts as a 24/7 first-line support representative, intelligently triaging incoming emails based on sentiment and intent.*
 
-![Workflow Screenshot](https://via.placeholder.com/800x400.png?text=AI+Agent+Workflow+Screenshot)
-*(Replace with actual workflow screenshot)*
 
 [![n8n](https://img.shields.io/badge/n8n-%2352B415.svg?style=for-the-badge&logo=n8n&logoColor=white)](https://n8n.io/)
 [![OpenAI](https://img.shields.io/badge/OpenAI-%23412991.svg?style=for-the-badge&logo=openai&logoColor=white)](https://openai.com/)
