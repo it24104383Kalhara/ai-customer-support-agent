@@ -34,6 +34,14 @@
 | **General Questions** | ❓ | Sends automated, context-aware email reply |
 | **Spam** | 🚫 | Automatically filtered and ignored |
 
+## 📊 Workflow Overview
+
+<div align="center">
+<img src="Workflow_image.png" alt="n8n Workflow" width="800"/>
+<br>
+<em>n8n workflow for the Intelligent Customer Support AI Agent</em>
+</div>
+
 ## 🛠️ Tech Stack
 
 <div align="center">
